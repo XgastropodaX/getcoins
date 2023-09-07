@@ -1,0 +1,2 @@
+# getcoins
+add a readme
